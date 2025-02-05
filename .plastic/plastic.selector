@@ -1,0 +1,4 @@
+repository "Animaloid@unity_86A97BBACFE93D8D6D86@cloud"
+  path "/"
+    br "/main"
+    co "/main"
